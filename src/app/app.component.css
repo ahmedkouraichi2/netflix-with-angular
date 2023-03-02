@@ -2,7 +2,7 @@
 *{
   padding:0;
   margin:0;
-  background-color: #000000;
+ 
 
 }
 body{
@@ -19,6 +19,10 @@ body{
 .navbar .nav-item .nav-link {
    color :#E50914;
 
+ }
+ .feuille{
+  height: 80%;
+  margin-top: 10px;
  }
 
 
